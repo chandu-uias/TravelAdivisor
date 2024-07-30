@@ -23,7 +23,7 @@ Follow the following steps to install and setup the environment.
 
 Clone the repo 
 
-[](https://github.com/chandu-uias/TravelAdivisor.git)
+![](https://github.com/chandu-uias/TravelAdivisor.git)
 
 **Features**
 
