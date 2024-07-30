@@ -9,8 +9,6 @@ A travel advisor companion app which helps the user to navigate through the real
 
 React
 
-Nodejs
-
 RapidApi
 
 **Getting Started**
